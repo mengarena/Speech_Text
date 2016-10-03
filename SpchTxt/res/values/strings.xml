@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SpeechText_Conversion</string>
+    <string name="action_settings">Settings</string>
+    <string name="activitydata_folder">stts</string>
+</resources>
